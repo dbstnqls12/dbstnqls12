@@ -1,7 +1,7 @@
 # readMe
 <h1 align=center>
   안녕하세요👋 <br>
-  🌱 연신내 개발자 🌱 <br>
+  🌱  🌱 <br>
 </h1>
 
 <h3 align=center>
